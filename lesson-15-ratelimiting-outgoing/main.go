@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-academy/lesson-15-throttlingandbackpressure/server"
-	"github.com/go-academy/lesson-15-throttlingandbackpressure/throttle"
+	"github.com/erich-verys/go-academy/lesson-15-ratelimiting-outgoing/server"
+	"github.com/erich-verys/go-academy/lesson-15-ratelimiting-outgoing/throttle"
 )
 
 func main() {
